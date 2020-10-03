@@ -9,7 +9,7 @@ public class cube : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        moveSpeed = 3f;
+        moveSpeed = 5f;
         rb = GetComponent<Rigidbody>();
     }
 
